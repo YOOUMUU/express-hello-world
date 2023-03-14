@@ -64,8 +64,3 @@ app.listen(process.env.POST || port, () => {
   console.log(`Server is running on port ${port}`);
 });
 
-// API Key
-// 99e9b878ba14ad7a544f5a37a213d281-us14
-
-// List id
-// 995fa99329
